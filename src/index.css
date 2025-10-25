@@ -1,0 +1,36 @@
+
+:root {
+  /* Colors */
+  /* Light Theme */
+  --background-color: #F0FBFA;
+  --primary-color: #578098;
+  --text-color: #203038;
+  --secondary-color: #CBE4ED;
+  --sub-color: #203038;
+
+  /* Dark Theme */
+  --dark-primary-color: #203038;
+  --dark-secondary-color: #2D4A5A;
+  --dark-sub-color: #F0FBFA;
+  --dark-background-color: #F0FBFA; 
+  --text-color: #FFFFFF;
+  --accent-color: #578098;
+
+  /* Font Sizes */
+  --font-size-small: 0.875rem;
+  --font-size-medium: 1rem;
+  --font-size-large: 1.25rem;
+  --font-size-xlarge: 1.5rem;
+
+  /* Spacing */
+  --spacing-small: 0.5rem;
+  --spacing-medium: 1rem;
+  --spacing-large: 1.5rem;
+  --spacing-xlarge: 2rem;
+
+  /* Border Radius */
+  --border-radius-small: 4px;
+  --border-radius-medium: 8px;
+  --border-radius-large: 12px;  
+  --border-radius-xlarge: 16px;
+}
